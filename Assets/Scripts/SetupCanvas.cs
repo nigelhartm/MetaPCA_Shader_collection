@@ -1,5 +1,4 @@
 using System.Collections;
-using Meta.XR.EnvironmentDepth;
 using PassthroughCameraSamples;
 using UnityEngine;
 using UnityEngine.UI;
